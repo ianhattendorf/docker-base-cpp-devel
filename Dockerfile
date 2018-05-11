@@ -1,4 +1,4 @@
-FROM fedora:latest
+FROM fedora:27
 
 LABEL maintainer="Ian Hattendorf <ian@ianhattendorf.com>"
 
